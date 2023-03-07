@@ -9,5 +9,8 @@
         <module name="WordCountMapper" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WordCountMapper" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
